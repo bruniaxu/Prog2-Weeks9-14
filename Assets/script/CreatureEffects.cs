@@ -15,7 +15,7 @@ public class CreatureEffects : MonoBehaviour
     public Sprite lightSprite;
 
     // How long the elemental form lasts
-    public float effectDuration = 5f;
+    public float effectDuration = 2f;
 
     // Store the current effect
     private Coroutine currentEffect;
